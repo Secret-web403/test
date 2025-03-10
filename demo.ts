@@ -1,1 +1,1 @@
-let deomo:string = "z"
+let deomo:string = "z";
